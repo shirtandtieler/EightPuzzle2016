@@ -1,6 +1,8 @@
 # EightPuzzle2016
 My implementation of 8-Puzzle, written in 2016 for a university course.
 
+Feel free to compile the program yourself, or download the runnable jar from the EightPuzzle/export folder.
+
 A bit of warning: since this was written in my first year of knowing how to code, the UI is pretty poorly written. My intention in posting is just to display my ability and knowledge of various algorithms. My competancy of writing properly styled code can be seen in my more recent projects :)
 
 For the unaware, 8-Puzzle is a type of [sliding puzzle](https://en.wikipedia.org/wiki/Sliding_puzzle) where a 3x3 board with 9 spaces starts with 8 numbered tiles. Given some starting configuration of the 8 tiles, the goal is to slide the tiles around to achieve a desired end result.
